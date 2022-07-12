@@ -8,6 +8,9 @@
   },
   "author": "Devang Kaushik",
   "license": "ISC",
+  "engines": {
+    "node": "16.15.0"
+  },
   "type": "module",
   "dependencies": {
     "body-parser": "^1.20.0",
